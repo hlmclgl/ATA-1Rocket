@@ -19,7 +19,7 @@
 
 <br>
 
-<p align="center"><img src="https://i.hizliresim.com/bcbcoiu.png" alt="project-screenshot" width="700" height="400/"></p>
+<p align="center"><img src="https://i.hizliresim.com/bcbcoiu.png" alt="project-screenshot" width="900" height="400/"></p>
 
   
   
